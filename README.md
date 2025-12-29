@@ -158,7 +158,3 @@ MIT License
 
 ⭐ **Recruiter Note:**
 This repository showcases production-grade backend engineering, clean architecture, and event-driven system design rather than a toy or tutorial project.
-
-
-Just say the word 🚀
-```
